@@ -25,7 +25,7 @@
 ### 🔭 What I'm up to
 - 🌱 I’m currently learning **Advanced Deep Learning & Microservices**.
 - 👯 I’m looking to collaborate on **Open Source Flutter & AI projects**.
-- 🎓 Engineering Student at **ESTIN** & Future Student at **CESI Nancy**.
+- 🎓 Engineering Student at **ESTIN** .
 
 <br/>
 
