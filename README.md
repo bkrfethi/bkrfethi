@@ -42,11 +42,3 @@ I focus on **Clean Architecture** and **Scalable Solutions**.
 | **🔧 Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 <br/>
-
-### 📊 Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
