@@ -110,8 +110,5 @@ Readable code, clear architecture, appropriate abstractions, and practical solut
 
 ---
 
-<div align="center">
-
-### Software Engineering × Data × AI
 
 </div>
