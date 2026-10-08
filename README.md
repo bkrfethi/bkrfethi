@@ -31,6 +31,20 @@ My background is in software engineering, with a focus on building **maintainabl
 
 ---
 
+## Currently
+
+- **Building:** backend services and data-driven applications with a focus on clean architecture
+- **Learning:** advanced Data Engineering, Machine Learning systems, and production AI integration
+- **Open to:** collaboration on backend, data, and AI engineering projects
+
+---
+
+## Featured Work
+
+Selected projects are pinned below. They reflect my focus on maintainable architecture, scalable services, and data-driven systems.
+
+---
+
 ## Technical Stack
 
 ### Languages
@@ -45,7 +59,6 @@ My background is in software engineering, with a focus on building **maintainabl
 
 ### Backend & Software Engineering
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -53,7 +66,6 @@ My background is in software engineering, with a focus on building **maintainabl
 
 ### Data & AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -64,7 +76,6 @@ My background is in software engineering, with a focus on building **maintainabl
 ### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 `Clean Architecture` · `BLoC` · `State Management`
 
@@ -83,6 +94,17 @@ My background is in software engineering, with a focus on building **maintainabl
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
 ## What I Care About
 
 **Software Engineering**  
@@ -92,7 +114,7 @@ Designing systems that are structured, maintainable, and built to evolve.
 Understanding data, building machine learning solutions, and integrating AI into real software systems.
 
 **Systems**  
-Learning how things work underneath the abstractions—from APIs and databases to concurrency and distributed systems.
+Learning how things work underneath the abstractions, from APIs and databases to concurrency and distributed systems.
 
 **Engineering Quality**  
 Readable code, clear architecture, appropriate abstractions, and practical solutions over unnecessary complexity.
